@@ -1,0 +1,20 @@
+(kicad_sch (version 20230121) (generator eeschema)
+
+  (uuid d0f6dd50-346d-4a11-bd1d-2d3093bfc088)
+
+  (paper "A4")
+
+  (lib_symbols
+  )
+
+
+  (text "Classic: https://www.lcsc.com/product-detail/DC-DC-Converters_XI-AN-Aerosemi-Tech-MT3608L_C2932326.html\nCheap: https://www.lcsc.com/product-detail/DC-DC-Converters_MICRONE-Nanjing-Micro-One-Elec-ME2188A50XG_C236769.html\nPowerful: https://www.lcsc.com/product-detail/DC-DC-Converters_Texas-Instruments-TPS61022RWUR_C915088.html\nNo-Inductor: https://www.lcsc.com/product-detail/DC-DC-Converters_Texas-Instruments-LM2775DSGR_C473361.html\nAlternative: https://www.lcsc.com/product-detail/DC-DC-Converters_Torex-Semicon-XC9142A50CER-G_C793248.html"
+    (at 29.845 37.465 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid 3f4a659f-5fbc-4240-a16a-13541db20505)
+  )
+
+  (sheet_instances
+    (path "/" (page "1"))
+  )
+)
